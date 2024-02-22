@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Finance</string>
+    <string name="BTC_USD">%s/%s</string>
+    <string name="price">$%s                                  </string>
+    <string name="coin_name">%s / %s</string>
+    <string name="date">Oxirgi o\'zgarish vaqti: %s</string>
+    <string name="priceinfo">$%s</string>
+</resources>
