@@ -1,5 +1,7 @@
 package uz.coder.cryptovalyutamy.presentation.ui
 
+import android.content.Context
+import android.content.Intent
 import android.os.Bundle
 import android.widget.SearchView
 import androidx.appcompat.app.AppCompatActivity
@@ -65,7 +67,7 @@ class CoinInfoActivity : AppCompatActivity() {
             }
         }
         setupSearchView()
-        binding.banner.setAdUnitId("R-M-6207023-2")
+        binding.banner.setAdUnitId("R-M-6207023-4")
         binding.banner.setAdSize(BannerAdSize.stickySize(this, Int.MAX_VALUE))
         val adRequest = AdRequest.Builder().build()
         binding.banner.loadAd(adRequest)
@@ -125,5 +127,6 @@ class CoinInfoActivity : AppCompatActivity() {
     }
     companion object {
         private const val TAG = "CoinInfoActivity"
+        fun newIntent(context: Context):Intent = Intent(context,CoinInfoActivity::class.java)
     }
 }

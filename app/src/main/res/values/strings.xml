@@ -5,4 +5,11 @@
     <string name="coin_name">%s / %s</string>
     <string name="date">Oxirgi o\'zgarish vaqti: %s</string>
     <string name="priceinfo">$%s</string>
+    <string name="sum_coin">%s</string>
+    <string name="_10e_8_0_000_000_001_0">10E-8 = 0.000 000 001 0</string>
+    <string name="_10e8_1_000_000_000">10E8 = 1 000 000 000</string>
+    <string name="button_calculat_coin">Button calculat coin</string>
+    <string name="equal">=</string>
+    <string name="_coin_name_btc">BTC</string>
+    <string name="replase_coin_calculate">Replase coin calculate</string>
 </resources>
