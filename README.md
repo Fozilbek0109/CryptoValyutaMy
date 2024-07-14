@@ -57,8 +57,8 @@
 
 ## Screenshots
 
-![Image of Yaktocat](images/1.png)
-![Image of Yaktocat](images/2.png)
+![Image of Yaktocat](https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_4_2024-07-14_12-18-25.jpg)
+![Image of Yaktocat](https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_5_2024-07-14_12-18-25.jpg)
 ![Image of Yaktocat](images/3.png)
 ![Image of Yaktocat](images/4.png)
 ![Image of Yaktocat](images/5.png)
