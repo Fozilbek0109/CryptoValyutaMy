@@ -56,15 +56,8 @@
 - OkHttp
 
 ## Screenshots
-
-![Image of Yaktocat](https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_4_2024-07-14_12-18-25.jpg)
+###### ![Image of Yaktocat](https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_4_2024-07-14_12-18-25.jpg)
 ![Image of Yaktocat](https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_5_2024-07-14_12-18-25.jpg)
-![Image of Yaktocat](images/3.png)
-![Image of Yaktocat](images/4.png)
-![Image of Yaktocat](images/5.png)
-![Image of Yaktocat](images/6.png)
-![Image of Yaktocat](images/7.png)
-![Image of Yaktocat](images/8.png)
-![Image of Yaktocat](images/9.png)
-![Image of Yaktocat](images/10.png)
-![Image of Yaktocat](images/11.png)
+![Image of Yaktocat](https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_1_2024-07-14_12-18-25.jpg)
+![Image of Yaktocat](https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_2_2024-07-14_12-18-25.jpg)
+![Image of Yaktocat](https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_3_2024-07-14_12-18-25.jpg)
