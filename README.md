@@ -57,7 +57,7 @@
 
 ## Screenshots
 <div align="center">
-  ![Image of Yaktocat](https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_4_2024-07-14_12-18-25.jpg)
+  <image>(https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_4_2024-07-14_12-18-25.jpg)</image>
 </div>
  
 ![Image of Yaktocat](https://github.com/Fozilbek0109/CryptoValyutaMy/blob/v-2/app/src/main/java/uz/coder/cryptovalyutamy/screen_shots_app/photo_5_2024-07-14_12-18-25.jpg)
