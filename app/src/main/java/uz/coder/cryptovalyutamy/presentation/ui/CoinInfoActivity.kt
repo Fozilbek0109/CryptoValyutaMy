@@ -3,6 +3,7 @@ package uz.coder.cryptovalyutamy.presentation.ui
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import android.widget.SearchView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Lifecycle
@@ -57,12 +58,13 @@ class CoinInfoActivity : AppCompatActivity() {
         binding.rec.adapter = adapterCoinInfo
 
 
+        Log.d(TAG, "onCreate: $listCoinPriceInfo")
         lifecycleScope.launch {
             repeatOnLifecycle(Lifecycle.State.RESUMED) {
                 coinViewModel.getCoinInfoList.collect { listCoin ->
-                        listCoinPriceInfo.clear()
-                        listCoinPriceInfo.addAll(listCoin)
-                        adapterCoinInfo.submitList(listCoin)
+                    listCoinPriceInfo.clear()
+                    listCoinPriceInfo.addAll(listCoin)
+                    adapterCoinInfo.submitList(listCoin)
                 }
             }
         }
